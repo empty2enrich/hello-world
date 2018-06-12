@@ -1,6 +1,6 @@
 # hello-world
-测试下冲突
-Test the repository!
+测冲突
+Test试下 the repository!
 void main(){
 cout<<"hello world!";
 }
